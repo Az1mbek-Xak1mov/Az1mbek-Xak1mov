@@ -1,41 +1,139 @@
-<h1 align="center">Hi 👋, I'm Azimbek Hakimov</h1>
-<h3 align="center">Junior Python Developer | AI Enthusiast | Future AI Engineer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Azimbek%20Hakimov&fontSize=50&fontAlignY=35&desc=Python%20Developer%20|%20AI%20Enthusiast%20|%20Future%20Software%20Engineer&descAlignY=51&descAlign=50&fontColor=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Python+Developer+🐍;Building+AI-Powered+Projects+🤖;Lifelong+Learner+📚;Let's+build+something+great!+🚀" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🌟 About Me
-- 🎯 Passionate **Backend Developer** from Uzbekistan 🇺🇿  
-- 👨‍🎓 Currently studying **Computer Science** at WIUT  
-- 💻 2+ years of experience with **Python & Django/FastAPI**  
-- 🤖 Interested in **AI, Automation, and Scalable Systems**  
-- 🚀 Goal: To build efficient AI systems that consume less energy  
-- 🌍 Dream: Working globally as an **AI Engineer**
+## 🌟 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
+🎯 **Passionate Python & AI Developer** from Uzbekistan 🇺🇿  
+💡 **Age:** 20 | **Experience:** 2+ years with Python & Django/FastAPI  
+🎓 **Goal:** Becoming a world-class AI Engineer  
+📚 **Currently:** Working on AI-integrated Telegram bots and web apps  
+🌍 **Dream:** Building intelligent systems that make life easier  
+
+### 💫 What Drives Me
+- 🔥 **Consistency over motivation** — Code every day, improve every day  
+- 🎯 **Clarity in code** — Writing maintainable, scalable solutions  
+- 🚀 **Innovation mindset** — Exploring AI, ML, and automation  
+- 🤝 **Community growth** — Learning, sharing, and collaborating  
 
 ---
 
-### ⚙️ Tech Stack
-💻 **Languages:** Python, SQL, JavaScript  
-⚙️ **Frameworks:** Django, DRF, FastAPI  
-🗄️ **Databases:** PostgreSQL, SQLite, Redis  
-🧠 **Tools:** Docker, Git, Linux, Nginx, Telegram Bot API  
-📚 **AI/ML:** NumPy, Pandas, AI Integration, Web Scraping  
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🚀 Languages & Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚡ Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-EF2D5E?style=for-the-badge&logo=django&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### 🗄️ Databases & Cache
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub+Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🌐 API Technologies
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
+
+</div>
 
 ---
 
-### 🧩 My Projects
-- 🔹 **OnlineBooking Platform** — DRF app for booking various services  
-- 🔹 **Ingre-AI-Meal** — AI-powered recipe generator with YouTube integration  
-- 🔹 **RentingApartment Bot** — Scraper + Telegram Bot with AI location finder  
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Az1mbek-Xak1mov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az1mbek-Xak1mov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Az1mbek-Xak1mov&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+</div>
 
 ---
 
-### 📈 Stats
-![Azimbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Az1mbek-Xak1mov&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Az1mbek-Xak1mov&layout=compact&theme=tokyonight)
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Az1mbek-Xak1mov&theme=tokyo-night&hide_border=true&custom_title=Azimbek's%20Contribution%20Graph&area=true&point=58a6ff" alt="Activity Graph"/>
+</div>
 
 ---
 
-### 🌐 Connect With Me
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Az1mbek-Xak1mov&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azimbek_hakimov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azimbek-hakimov-784b2528a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azimbekdev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Az1mbek-Xak1mov)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Az1mbek/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💝 Support My Work
+
+If you find my projects helpful, consider giving them a ⭐!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/azimbek)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Az1mbek-Xak1mov&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Az1mbek-Xak1mov?style=for-the-badge&color=blue&labelColor=black)
+![Stars](https://img.shields.io/github/stars/Az1mbek-Xak1mov?style=for-the-badge&color=yellow&labelColor=black)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" alt="Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <i>💙 "Turning ideas into scalable software solutions"</i><br>
+  <i>⭐️ From <a href="https://github.com/Az1mbek-Xak1mov">Azimbek-Xak1mov</a> with ❤️</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=51&descAlign=50&fontColor=ffffff" alt="Footer"/>
+</div>
