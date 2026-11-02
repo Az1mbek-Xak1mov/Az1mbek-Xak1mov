@@ -1,111 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090E1A,45:172554,100:2563EB&height=230&section=header&text=Azimbek%20Xakimov&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%2F%20BACKEND%20%2F%20AI&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&height=50&lines=Building+things+that+matter.;Engineering+systems%2C+not+just+features.;Exploring+the+intersection+of+AI+%26+software.;Curiosity+drives+everything." alt="Introduction" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Azimbek+Hakimov;Software+Engineer;Backend+%26+AI+Systems;Turning+ideas+into+working+products." />
+<a href="https://github.com/Az1mbek-Xak1mov">GitHub</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/azimbek-hakimov-784b2528a/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://t.me/azimbek_hakimov">Telegram</a> &nbsp;·&nbsp;
+<a href="mailto:azimbekdev@gmail.com">Email</a>
 
-<br/>
-
-**SOFTWARE ENGINEER · BACKEND · AI SYSTEMS**
-
-*Tashkent, Uzbekistan 🇺🇿*
-
-<br/>
-
-<a href="https://github.com/Az1mbek-Xak1mov">
-<img src="https://img.shields.io/badge/GitHub-Az1mbek--Xak1mov-161b22?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/azimbek-hakimov-784b2528a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://t.me/azimbek_hakimov">
-<img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-</a>
+<br/><br/>
 
 </div>
 
----
-
-## `01` — Who am I?
-
-```python
-class Azimbek:
-    role = "Software Engineer"
-    location = "Tashkent, Uzbekistan"
-
-    interests = [
-        "Backend Engineering",
-        "Artificial Intelligence",
-        "Algorithms & Data Structures",
-        "System Design",
-        "Building Products",
-    ]
-
-    philosophy = "Understand deeply. Build thoughtfully."
-```
-
-I build software systems, explore AI technologies, and turn ideas into real products.
-
-My primary engineering focus is backend development with Python, designing scalable architectures, and integrating intelligent systems into practical applications.
-
-I'm particularly interested in understanding how things work beneath the abstraction, not just learning how to use a particular framework.
-
----
-
-## `02` — Engineering Focus
-
-<div align="center">
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="middle">
 
-### ⚙️ Backend Engineering
+## A little about me
 
-- API architecture & system design
-- Asynchronous Python
-- Database design & optimization
-- Distributed systems
-- Background processing
-- Infrastructure & deployment
+I'm a software engineer from Uzbekistan 🇺🇿
+
+I enjoy building backend systems, exploring artificial intelligence, and understanding the engineering behind complex technologies.
+
+My interests go beyond frameworks and libraries. I'm particularly interested in algorithms, system architecture, AI infrastructure, and the process of turning ambitious ideas into real products.
+
+**I like understanding how things work, not just making them work.**
 
 </td>
-<td width="50%" valign="top">
+<td width="38%" align="center" valign="middle">
 
-### 🧠 Artificial Intelligence
-
-- LLM integrations
-- AI-powered applications
-- Agentic systems
-- Speech technologies
-- Model evaluation
-- AI infrastructure
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Developer coding animation"/>
 
 </td>
 </tr>
+</table>
+
+---
+
+<div align="center">
+
+## WHAT I WORK ON
+
+<br/>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🧩 Computer Science
+<img src="https://img.icons8.com/fluency/96/server.png" width="48"/>
 
-- Algorithms & data structures
-- Problem solving
-- Operating systems
-- Software architecture
-- Performance optimization
+**Backend**
+
+<sub>APIs · Architecture<br/>Databases · Distributed systems</sub>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🚀 Product Engineering
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="48"/>
 
-- Turning ideas into products
-- MVP development
-- API integrations
-- Automation
-- Technical experimentation
+**Artificial Intelligence**
+
+<sub>LLMs · AI agents<br/>Speech · Intelligent systems</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/code.png" width="48"/>
+
+**Computer Science**
+
+<sub>Algorithms · OS<br/>Data structures · Mathematics</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="48"/>
+
+**Product Engineering**
+
+<sub>Startups · Automation<br/>Building real products</sub>
 
 </td>
 </tr>
@@ -115,137 +91,130 @@ I'm particularly interested in understanding how things work beneath the abstrac
 
 ---
 
-## `03` — Selected Work
+## SELECTED WORK
 
-Things I've helped build and bring to life.
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌍 LocalTours</h3>
+<a href="https://localtours.uz">
+<img src="https://img.shields.io/badge/LOCALTOURS-Explore%20project-2563EB?style=for-the-badge"/>
+</a>
 
-An Uzbekistan-focused tourism product connecting travelers with local experiences.
+### 🌍 LocalTours
 
-<a href="https://localtours.uz">Explore project ↗</a>
+A tourism platform focused on connecting people with local experiences in Uzbekistan.
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🪐 SatStars</h3>
+<a href="https://satstars.uz">
+<img src="https://img.shields.io/badge/SATSTARS-Explore%20project-7C3AED?style=for-the-badge"/>
+</a>
 
-A digital product built around satellite and space-related exploration.
+### 🪐 SatStars
 
-<a href="https://satstars.uz">Explore project ↗</a>
+A digital product exploring the world of satellites and space.
 
 </td>
 </tr>
 </table>
 
-> I believe engineering should result in something people can actually use.
+</div>
 
 ---
 
-## `04` — Technology Arsenal
+## TECHNOLOGY
 
 <div align="center">
 
-### Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,postgres,redis,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,postgres,bash&theme=dark" />
 
-### Backend & Frameworks
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,sqlalchemy&theme=dark" />
+**Backend & Data**
 
-### Infrastructure & Tools
+<img src="https://skillicons.dev/icons?i=fastapi,django,redis,sqlite&theme=dark" />
+
+<br/><br/>
+
+**Infrastructure & Engineering**
 
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx&theme=dark" />
 
-### Data & Development
+</div>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,pycharm,vscode&theme=dark" />
+---
+
+## GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Az1mbek-Xak1mov&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az1mbek-Xak1mov&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&langs_count=6" width="49%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Az1mbek-Xak1mov&theme=github-dark-blue&hide_border=true&background=0D1117" width="75%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Az1mbek-Xak1mov&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 
 </div>
 
 ---
 
-## `05` — GitHub Telemetry
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Az1mbek-Xak1mov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az1mbek-Xak1mov&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<details>
+<summary><b>🏆 Achievements & Recognition</b></summary>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Az1mbek-Xak1mov&theme=github-dark-blue&hide_border=true&background=0d1117" />
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Az1mbek-Xak1mov&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=10" width="90%"/>
 
 </div>
 
+</details>
+
 <details>
-<summary><b>📡 How to interpret these numbers</b></summary>
+<summary><b>♟️ Outside of software engineering</b></summary>
 
-- Repository statistics reflect GitHub activity.
-- Language distribution reflects detected code in public repositories.
-- Contribution streaks reflect recorded contribution activity.
+<br/>
 
-These metrics are indicators of activity, not measurements of engineering ability.
+- Chess and strategic thinking.
+- Mathematics and problem solving.
+- Startups and product development.
+- Exploring new technologies and computer science.
 
 </details>
 
 ---
 
-## `06` — Contribution Matrix
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Az1mbek-Xak1mov/Az1mbek-Xak1mov/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
-
----
-
-## `07` — Beyond the Editor
-
-A few things that keep me curious:
-
-- ♟️ Chess — strategy, patience, and pattern recognition.
-- 🧮 Mathematics — understanding the foundations behind algorithms and ML.
-- 🚀 Startups — building products, experimenting with ideas, and solving real problems.
-- 📚 Continuous learning — exploring computer science beyond my daily work.
-
----
-
-## `08` — Let's Connect
-
-<div align="center">
+### LET'S BUILD SOMETHING INTERESTING.
 
 <a href="https://github.com/Az1mbek-Xak1mov">
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/azimbek-hakimov-784b2528a/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://t.me/azimbek_hakimov">
-<img src="https://img.shields.io/badge/Telegram-Say%20hello-26A5E4?style=for-the-badge&logo=telegram"/>
-</a>
-
-<a href="mailto:azimbekdev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Az1mbek-Xak1mov&style=flat-square&color=58a6ff&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Az1mbek-Xak1mov&style=flat-square&color=2563EB&label=PROFILE+VISITORS"/>
 
 <br/><br/>
 
-**Build. Understand. Improve. Repeat.**
-
-<sub>Designed with curiosity and a little obsession for good engineering.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:090E1A&height=120&section=footer" width="100%"/>
 
 </div>
