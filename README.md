@@ -1,139 +1,251 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Azimbek%20Hakimov&fontSize=50&fontAlignY=35&desc=Python%20Developer%20|%20AI%20Enthusiast%20|%20Software%20Engineer&descAlignY=51&descAlign=50&fontColor=ffffff" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Python+Developer+🐍;Building+AI-Powered+Projects+🤖;Lifelong+Learner+📚;Let's+build+something+great!+🚀" alt="Typing SVG" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%"/>
 
----
+<br/>
 
-## 🌟 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Azimbek+Hakimov;Software+Engineer;Backend+%26+AI+Systems;Turning+ideas+into+working+products." />
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<br/>
 
-🎯 **Passionate Python & AI Developer** from Uzbekistan 🇺🇿  
-💡 **Age:** 20 | **Experience:** 2+ years with Python & Django/FastAPI  
-🎓 **Goal:** Becoming a world-class AI Engineer  
-📚 **Currently:** Working on AI-integrated Telegram bots and web apps  
-🌍 **Dream:** Building intelligent systems that make life easier  
+**SOFTWARE ENGINEER · BACKEND · AI SYSTEMS**
 
-### 💫 What Drives Me
-- 🔥 **Consistency over motivation** — Code every day, improve every day  
-- 🎯 **Clarity in code** — Writing maintainable, scalable solutions  
-- 🚀 **Innovation mindset** — Exploring AI, ML, and automation  
-- 🤝 **Community growth** — Learning, sharing, and collaborating  
+*Tashkent, Uzbekistan 🇺🇿*
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🚀 Languages & Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ⚡ Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-EF2D5E?style=for-the-badge&logo=django&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-### 🗄️ Databases & Cache
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub+Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🌐 API Technologies
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
+<a href="https://github.com/Az1mbek-Xak1mov">
+<img src="https://img.shields.io/badge/GitHub-Az1mbek--Xak1mov-161b22?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/azimbek-hakimov-784b2528a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://t.me/azimbek_hakimov">
+<img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## `01` — Who am I?
+
+```python
+class Azimbek:
+    role = "Software Engineer"
+    location = "Tashkent, Uzbekistan"
+
+    interests = [
+        "Backend Engineering",
+        "Artificial Intelligence",
+        "Algorithms & Data Structures",
+        "System Design",
+        "Building Products",
+    ]
+
+    philosophy = "Understand deeply. Build thoughtfully."
+```
+
+I build software systems, explore AI technologies, and turn ideas into real products.
+
+My primary engineering focus is backend development with Python, designing scalable architectures, and integrating intelligent systems into practical applications.
+
+I'm particularly interested in understanding how things work beneath the abstraction, not just learning how to use a particular framework.
+
+---
+
+## `02` — Engineering Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Az1mbek-Xak1mov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az1mbek-Xak1mov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Az1mbek-Xak1mov&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+- API architecture & system design
+- Asynchronous Python
+- Database design & optimization
+- Distributed systems
+- Background processing
+- Infrastructure & deployment
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Artificial Intelligence
+
+- LLM integrations
+- AI-powered applications
+- Agentic systems
+- Speech technologies
+- Model evaluation
+- AI infrastructure
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Computer Science
+
+- Algorithms & data structures
+- Problem solving
+- Operating systems
+- Software architecture
+- Performance optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Product Engineering
+
+- Turning ideas into products
+- MVP development
+- API integrations
+- Automation
+- Technical experimentation
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `03` — Selected Work
+
+Things I've helped build and bring to life.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌍 LocalTours</h3>
+
+An Uzbekistan-focused tourism product connecting travelers with local experiences.
+
+<a href="https://localtours.uz">Explore project ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🪐 SatStars</h3>
+
+A digital product built around satellite and space-related exploration.
+
+<a href="https://satstars.uz">Explore project ↗</a>
+
+</td>
+</tr>
+</table>
+
+> I believe engineering should result in something people can actually use.
+
+---
+
+## `04` — Technology Arsenal
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Az1mbek-Xak1mov&theme=tokyo-night&hide_border=true&custom_title=Azimbek's%20Contribution%20Graph&area=true&point=58a6ff" alt="Activity Graph"/>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,postgres,redis,bash&theme=dark" />
+
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,sqlalchemy&theme=dark" />
+
+### Infrastructure & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx&theme=dark" />
+
+### Data & Development
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,pycharm,vscode&theme=dark" />
+
 </div>
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Az1mbek-Xak1mov&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🌐 Connect & Collaborate
+## `05` — GitHub Telemetry
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azimbek_hakimov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azimbek-hakimov-784b2528a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azimbekdev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Az1mbek-Xak1mov)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Az1mbek-Xak1mov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az1mbek-Xak1mov&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Az1mbek-Xak1mov&theme=github-dark-blue&hide_border=true&background=0d1117" />
 
 </div>
 
+<details>
+<summary><b>📡 How to interpret these numbers</b></summary>
+
+- Repository statistics reflect GitHub activity.
+- Language distribution reflects detected code in public repositories.
+- Contribution streaks reflect recorded contribution activity.
+
+These metrics are indicators of activity, not measurements of engineering ability.
+
+</details>
+
 ---
+
+## `06` — Contribution Matrix
 
 <div align="center">
 
-### 💝 Support My Work
-
-If you find my projects helpful, consider giving them a ⭐!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/azimbek)
-
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Az1mbek-Xak1mov&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Az1mbek-Xak1mov?style=for-the-badge&color=blue&labelColor=black)
-![Stars](https://img.shields.io/github/stars/Az1mbek-Xak1mov?style=for-the-badge&color=yellow&labelColor=black)
+<img src="https://raw.githubusercontent.com/Az1mbek-Xak1mov/Az1mbek-Xak1mov/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" alt="Quote"/>
-</div>
+## `07` — Beyond the Editor
+
+A few things that keep me curious:
+
+- ♟️ Chess — strategy, patience, and pattern recognition.
+- 🧮 Mathematics — understanding the foundations behind algorithms and ML.
+- 🚀 Startups — building products, experimenting with ideas, and solving real problems.
+- 📚 Continuous learning — exploring computer science beyond my daily work.
 
 ---
 
-<div align="center">
-  <i>💙 "Turning ideas into scalable software solutions"</i><br>
-  <i>⭐️ From <a href="https://github.com/Az1mbek-Xak1mov">Azimbek-Xak1mov</a> with ❤️</i>
-</div>
+## `08` — Let's Connect
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=51&descAlign=50&fontColor=ffffff" alt="Footer"/>
+
+<a href="https://github.com/Az1mbek-Xak1mov">
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/azimbek-hakimov-784b2528a/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://t.me/azimbek_hakimov">
+<img src="https://img.shields.io/badge/Telegram-Say%20hello-26A5E4?style=for-the-badge&logo=telegram"/>
+</a>
+
+<a href="mailto:azimbekdev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Az1mbek-Xak1mov&style=flat-square&color=58a6ff&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+**Build. Understand. Improve. Repeat.**
+
+<sub>Designed with curiosity and a little obsession for good engineering.</sub>
+
 </div>
